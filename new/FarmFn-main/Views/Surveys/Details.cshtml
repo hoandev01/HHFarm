@@ -1,0 +1,54 @@
+﻿@model Farm.Models.Survey
+
+@{
+    ViewData["Title"] = "Survey Details";
+}
+
+<div class="container mt-5">
+    <h1 class="display-4 text-center mb-4">Survey Details</h1>
+
+    <div class="bg-light p-4 rounded shadow">
+        <dl class="row">
+            <dt class="col-sm-3">Cage Name</dt>
+            <dd class="col-sm-9">@Model.CageName</dd>
+
+            <dt class="col-sm-3">Cage Code</dt>
+            <dd class="col-sm-9">@Model.CageCode</dd>
+
+            <dt class="col-sm-3">Location</dt>
+            <dd class="col-sm-9">@Model.Location</dd>
+
+            <dt class="col-sm-3">Area (m²)</dt>
+            <dd class="col-sm-9">@Model.CageArea</dd>
+
+            <dt class="col-sm-3">Number of Chickens</dt>
+            <dd class="col-sm-9">@Model.ChickenCount</dd>
+
+            <dt class="col-sm-3">Chicken Breed</dt>
+            <dd class="col-sm-9">@Model.ChickenBreed @(Model.BreedOther != null ? $"(Other: {Model.BreedOther})" : "")</dd>
+
+            <dt class="col-sm-3">Purpose</dt>
+            <dd class="col-sm-9">@Model.Purpose @(Model.PurposeOther != null ? $"(Other: {Model.PurposeOther})" : "")</dd>
+
+            <dt class="col-sm-3">Main Feed</dt>
+            <dd class="col-sm-9">@Model.MainFeed</dd>
+
+            <dt class="col-sm-3">Water Source</dt>
+            <dd class="col-sm-9">@Model.WaterSource @(Model.WaterSourceOther != null ? $"(Other: {Model.WaterSourceOther})" : "")</dd>
+
+            <dt class="col-sm-3">Ventilation</dt>
+            <dd class="col-sm-9">@Model.Ventilation</dd>
+
+            <dt class="col-sm-3">Lighting</dt>
+            <dd class="col-sm-9">@Model.Lighting</dd>
+
+            <dt class="col-sm-3">Hygiene</dt>
+            <dd class="col-sm-9">@Model.Hygiene</dd>
+
+            <dt class="col-sm-3">Notes</dt>
+            <dd class="col-sm-9">@Model.Notes</dd>
+        </dl>
+
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

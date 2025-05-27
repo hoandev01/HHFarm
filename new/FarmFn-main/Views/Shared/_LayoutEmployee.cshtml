@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Farm Employee</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        .sidebar {
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            width: 250px;
+            background: #2c3e50;
+        }
+
+        .sidebar-sticky {
+            padding-top: 1rem;
+            height: 100vh;
+        }
+
+        .nav-link {
+            color: #fff;
+        }
+
+            .nav-link:hover {
+                background: #34495e;
+            }
+
+        .content {
+            margin-left: 250px;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="d-flex">
+        <nav class="sidebar">
+            <div class="sidebar-sticky">
+                <h5 class="text-center text-white p-2">Employee Panel</h5>
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a asp-controller="Product" asp-action="Index" class="nav-link">Chicken Management</a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="SurveyForms" asp-action="Index" class="nav-link">Survey Form Management</a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="News" asp-action="Index" class="nav-link">News Management</a>
+                    </li>
+                </ul>
+
+            </div>
+        </nav>
+        <main class="content">
+            <h1 class="h3 mb-3">@ViewData["Title"]</h1>
+            @RenderBody()
+        </main>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

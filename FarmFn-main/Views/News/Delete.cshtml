@@ -1,0 +1,36 @@
+﻿@model Farm.Models.News
+
+@{
+    ViewData["Title"] = "Delete News";
+}
+
+<div class="container mt-4">
+    <h1 class="h3 mb-4 text-danger">Delete News</h1>
+
+    <div class="card">
+        <div class="card-header bg-danger text-white">
+            <h5 class="mb-0">Delete Confirmation</h5>
+        </div>
+        <div class="card-body">
+            <h5 class="card-title text-danger">Are you sure you want to delete this news item?</h5>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-3 fw-bold">Image</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.image)</dd>
+                <dt class="col-sm-3 fw-bold">Title</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.title)</dd>
+                <dt class="col-sm-3 fw-bold">Subtitle</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.subtit)</dd>
+                <dt class="col-sm-3 fw-bold">Content</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.content)</dd>
+                <dt class="col-sm-3 fw-bold">Created At</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.created_at)</dd>
+            </dl>
+            <form asp-action="Delete" method="post">
+                <input type="hidden" asp-for="id" />
+                <input type="submit" value="Delete" class="btn btn-danger me-2" />
+                <a asp-action="Index" class="btn btn-outline-secondary">Back</a>
+            </form>
+        </div>
+    </div>
+</div>

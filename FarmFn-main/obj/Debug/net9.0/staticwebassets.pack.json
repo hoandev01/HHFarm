@@ -1,0 +1,681 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\css\\_font.scss",
+      "PackagePath": "staticwebassets\\css\\_font.scss"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\css\\_owl.scss",
+      "PackagePath": "staticwebassets\\css\\_owl.scss"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\css\\backend\\login.css",
+      "PackagePath": "staticwebassets\\css\\backend\\login.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\css\\backend\\login.css.map",
+      "PackagePath": "staticwebassets\\css\\backend\\login.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\css\\backend\\login.scss",
+      "PackagePath": "staticwebassets\\css\\backend\\login.scss"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\css\\backend\\style.css",
+      "PackagePath": "staticwebassets\\css\\backend\\style.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\css\\backend\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\backend\\style.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\css\\backend\\style.scss",
+      "PackagePath": "staticwebassets\\css\\backend\\style.scss"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\css\\detail\\blog.css",
+      "PackagePath": "staticwebassets\\css\\detail\\blog.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\css\\detail\\blog.css.map",
+      "PackagePath": "staticwebassets\\css\\detail\\blog.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\css\\detail\\blog.scss",
+      "PackagePath": "staticwebassets\\css\\detail\\blog.scss"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\bank-qr.png",
+      "PackagePath": "staticwebassets\\image\\bank-qr.png"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\banner1.png",
+      "PackagePath": "staticwebassets\\image\\banner1.png"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\bo-giong-angus.jpg",
+      "PackagePath": "staticwebassets\\image\\bo-giong-angus.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\bo-giong.jpg",
+      "PackagePath": "staticwebassets\\image\\bo-giong.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\broiler-breeder-farm.png",
+      "PackagePath": "staticwebassets\\image\\broiler-breeder-farm.png"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\chicken_image.jpg",
+      "PackagePath": "staticwebassets\\image\\chicken_image.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\ga-giong-tamhoang.jpg",
+      "PackagePath": "staticwebassets\\image\\ga-giong-tamhoang.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\ga-giong.jpg",
+      "PackagePath": "staticwebassets\\image\\ga-giong.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\heo-giong-lai.jpg",
+      "PackagePath": "staticwebassets\\image\\heo-giong-lai.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\heo-giong.jpg",
+      "PackagePath": "staticwebassets\\image\\heo-giong.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\momo-qr.png",
+      "PackagePath": "staticwebassets\\image\\momo-qr.png"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\sua-bo.jpg",
+      "PackagePath": "staticwebassets\\image\\sua-bo.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\sua-de.jpg",
+      "PackagePath": "staticwebassets\\image\\sua-de.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\thit-bo.jpg",
+      "PackagePath": "staticwebassets\\image\\thit-bo.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\thit-ga.jpg",
+      "PackagePath": "staticwebassets\\image\\thit-ga.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\thit-heo.jpg",
+      "PackagePath": "staticwebassets\\image\\thit-heo.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\trung-ga.jpg",
+      "PackagePath": "staticwebassets\\image\\trung-ga.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\image\\trung-vit.jpg",
+      "PackagePath": "staticwebassets\\image\\trung-vit.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\js\\jquery-2.1.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.1.min.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\js\\owl_carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl_carousel.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\all.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\brands.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\brands.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\duotone.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\duotone.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\duotone.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\duotone.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\index.html",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\index.html"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\light.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\light.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\light.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\light.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\regular.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\regular.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\solid.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\solid.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\thin.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\thin.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\thin.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\thin.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\v4-shims.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\index.html",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\index.html"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-duotone-900.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-duotone-900.eot"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-duotone-900.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-duotone-900.svg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-duotone-900.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-duotone-900.woff"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-light-300.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-light-300.eot"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-light-300.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-light-300.svg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-thin-100.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-thin-100.ttf"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-thin-100.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-thin-100.woff"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-thin-100.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-thin-100.woff2"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\font-awesome-pro-6.0\\webfonts\\index.html",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-pro-6.0\\webfonts\\index.html"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\uploads\\01bd673d-7548-4d56-abf6-c54e508c755bphoto.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\01bd673d-7548-4d56-abf6-c54e508c755bphoto.jpeg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\uploads\\Screenshot 2024-05-25 225824.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-05-25 225824.png"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\uploads\\Screenshot 2025-02-12 001429.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2025-02-12 001429.png"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\uploads\\Screenshot 2025-02-12 001440.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2025-02-12 001440.png"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\uploads\\Screenshot 2025-03-10 001910.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2025-03-10 001910.png"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\uploads\\benhdong.jpg",
+      "PackagePath": "staticwebassets\\uploads\\benhdong.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\uploads\\congnghe.jpg",
+      "PackagePath": "staticwebassets\\uploads\\congnghe.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\uploads\\dinhcao.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dinhcao.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\uploads\\ecoli.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ecoli.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\uploads\\hieuqua.jpg",
+      "PackagePath": "staticwebassets\\uploads\\hieuqua.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\uploads\\khu.jpg",
+      "PackagePath": "staticwebassets\\uploads\\khu.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\uploads\\lamduong.jpg",
+      "PackagePath": "staticwebassets\\uploads\\lamduong.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\uploads\\lydo.jpg",
+      "PackagePath": "staticwebassets\\uploads\\lydo.jpg"
+    },
+    {
+      "Id": "E:\\Code\\FARM-NEW\\FarmFn-main\\wwwroot\\uploads\\stress.jpg",
+      "PackagePath": "staticwebassets\\uploads\\stress.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Farm.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Farm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Farm.props",
+      "PackagePath": "build\\Farm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Farm.props",
+      "PackagePath": "buildMultiTargeting\\Farm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Farm.props",
+      "PackagePath": "buildTransitive\\Farm.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

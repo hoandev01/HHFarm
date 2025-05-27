@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Farm.Models.SurveyForm>
+
+<div class="container mt-4">
+    <h1>Survey Form Management</h1>
+    <a asp-action="Create" class="btn btn-success mb-3">Add New</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Cage</th>
+                <th>Number of Chickens</th>
+                <th>Survey Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Cage.category_id</td>
+                    <td>@item.Cage.quantity</td>
+                    <td>@item.SurveyDate.ToString("dd/MM/yyyy")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

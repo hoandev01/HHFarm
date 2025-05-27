@@ -1,0 +1,12 @@
+﻿@model Farm.Models.User
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Personal Information</h5>
+        <p class="card-text">Username: @Model.Username</p>
+        <p class="card-text">Email: @Model.Email</p>
+        <p class="card-text">Phone Number: @Model.PhoneNumber</p>
+        <a asp-action="EditProfile" asp-controller="User" class="btn btn-primary">Edit Information</a>
+
+    </div>
+</div>

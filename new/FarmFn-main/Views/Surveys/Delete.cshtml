@@ -1,0 +1,26 @@
+﻿@model Farm.Models.Survey
+
+@{
+    ViewData["Title"] = "Delete Survey";
+}
+
+<div class="container mt-5">
+    <h1 class="display-4 text-center mb-4">Delete Survey</h1>
+
+    <div class="bg-light p-4 rounded shadow">
+        <h3>Are you sure you want to delete this survey?</h3>
+        <dl class="row">
+            <dt class="col-sm-3">Cage Name</dt>
+            <dd class="col-sm-9">@Model.CageName</dd>
+        </dl>
+
+        <form asp-action="DeleteConfirmed" method="post">
+            @Html.AntiForgeryToken()
+            <input type="hidden" asp-for="Id" />
+            <div class="d-grid gap-2">
+                <input type="submit" value="Delete" class="btn btn-danger btn-lg" />
+                <a asp-action="Index" class="btn btn-secondary btn-lg">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>

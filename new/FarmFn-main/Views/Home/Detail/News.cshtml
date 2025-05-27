@@ -1,0 +1,106 @@
+@model NewsDetailViewModel
+
+@{
+    ViewData["Title"] = Model.News.title;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- News Detail Section -->
+<section class="news-detail-section py-5 bg-white">
+    <div class="container">
+        <div class="row">
+            <!-- Main Content -->
+            <div class="col-lg-8">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="/">Home</a></li>
+                        <li class="breadcrumb-item"><a href="/news">News</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Detail</li>
+                    </ol>
+                </nav>
+
+                <h1 class="mb-3 fw-bold">@Model.News.title</h1>
+                <div class="d-flex align-items-center mb-4">
+                    <span class="text-muted me-3"><i class="far fa-calendar-alt me-1"></i> @Model.News.created_at.ToString("dd/MM/yyyy")</span>
+                    <span class="text-muted"><i class="far fa-eye me-1"></i> 10</span>
+                </div>
+
+                <!-- Social Share Buttons -->
+                <div class="mb-4">
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=@Uri.EscapeDataString(Context.Request.Scheme + "://" + Context.Request.Host + Context.Request.Path + Context.Request.QueryString)" target="_blank" class="btn btn-sm btn-primary me-1"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://twitter.com/share?url=@Uri.EscapeDataString(Context.Request.Scheme + "://" + Context.Request.Host + Context.Request.Path + Context.Request.QueryString)" target="_blank" class="btn btn-sm btn-info me-1"><i class="fab fa-twitter"></i></a>
+                    <a href="https://pinterest.com/pin/create/button/?url=@Uri.EscapeDataString(Context.Request.Scheme + "://" + Context.Request.Host + Context.Request.Path + Context.Request.QueryString)" target="_blank" class="btn btn-sm btn-danger me-1"><i class="fab fa-pinterest"></i></a>
+                    <a href="https://wa.me/?text=@Uri.EscapeDataString(Model.News.title + " " + Context.Request.Scheme + "://" + Context.Request.Host + Context.Request.Path + Context.Request.QueryString)" target="_blank" class="btn btn-sm btn-success"><i class="fab fa-whatsapp"></i></a>
+                </div>
+
+                <p class="lead">@Model.News.subtit</p>
+                <img src="/Uploads/@Model.News.image" class="img-fluid rounded mb-4" alt="@Model.News.title" />
+                <div class="content">
+                    @Html.Raw(Model.News.content)
+                </div>
+
+                <!-- Related News -->
+                <hr class="my-5" />               
+                <h4 class="mb-4 fw-bold">Related Posts</h4>
+                <div class="row g-4">
+                    @foreach (var related in Model.RelatedNews)
+                    {
+                        <div class="col-md-4">
+                            <a href="/blog?id=@related.id" class="text-decoration-none">
+                                <div class="card border-0 h-100 rounded-3">
+                                    <img src="/Uploads/@related.image" class="card-img-top" alt="@related.title" style="height: 150px; object-fit: cover;" />
+                                    <div class="card-body p-2">
+                                        <h6 class="card-title fw-semibold text-dark mb-0">@related.title</h6>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    }
+                </div>
+            </div>
+
+            <!-- Sidebar with QR Code -->
+            <div class="qr-code mb-4 p-4 bg-light rounded">
+                <h6 class="text-center mb-3">Scan the code to download the Farm App</h6>
+                <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://dta-app.com/download" class="img-fluid mx-auto d-block" alt="QR Code" />
+                <p class="text-center mt-3">Or click on the link below.</p>
+                <div class="d-flex justify-content-center gap-2">
+                    <a href="https://play.google.com/store" target="_blank" class="btn btn-dark btn-sm"><i class="fab fa-google-play"></i> Google Play</a>
+                    <a href="https://www.apple.com/app-store/" target="_blank" class="btn btn-dark btn-sm"><i class="fab fa-app-store"></i> App Store</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Custom CSS -->
+<style>
+    .news-detail-section .content {
+        line-height: 1.8;
+        font-size: 1.05rem;
+    }
+
+        .news-detail-section .content h2 {
+            font-size: 1.5rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        .news-detail-section .content ul {
+            padding-left: 20px;
+            margin-bottom: 1.5rem;
+        }
+
+            .news-detail-section .content ul li {
+                margin-bottom: 0.5rem;
+            }
+
+    .news-detail-section .card-img-top {
+        height: 150px;
+        object-fit: cover;
+    }
+
+    .qr-code {
+        border: 1px solid #dee2e6;
+    }
+</style>

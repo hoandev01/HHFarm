@@ -1,0 +1,33 @@
+﻿@model Farm.Models.News
+
+@{
+    ViewData["Title"] = "News Details";
+}
+
+<div class="container mt-4">
+    <h1 class="h3 mb-4 text-info">News Details</h1>
+
+    <div class="card">
+        <div class="card-header bg-info text-white">
+            <h5 class="mb-0">Thông tin Tin tức</h5>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3 fw-bold">Image</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.image)</dd>
+                <dt class="col-sm-3 fw-bold">Title</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.title)</dd>
+                <dt class="col-sm-3 fw-bold">Subtitle</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.subtit)</dd>
+                <dt class="col-sm-3 fw-bold">Content</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.content)</dd>
+                <dt class="col-sm-3 fw-bold">Created At</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.created_at)</dd>
+            </dl>
+        </div>
+        <div class="card-footer">
+            <a asp-action="Edit" asp-route-id="@Model?.id" class="btn btn-warning me-2">Edit</a>
+            <a asp-action="Index" class="btn btn-outline-secondary">Back</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,44 @@
+﻿@model Farm.Models.Order
+
+@{
+    ViewData["Title"] = "Payment Successful";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container py-5">
+    <h1>Payment Successful</h1>
+    <h4>Thank you for your order!</h4>
+    <p>Order ID: @Model.Id</p>
+    <p>Order Date: @Model.OrderDate.ToString("dd/MM/yyyy HH:mm")</p>
+    <p>Payment Method: @Model.PaymentMethod</p>
+    <p>Status: @Model.Status</p>
+
+    <h5>Order Details</h5>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Image</th>
+                <th>Product Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var detail in Model.OrderDetails)
+            {
+                <tr>
+                    <td>
+                        <img src="@detail.Product.Image" alt="@detail.Product.Name" style="width: 50px;" />
+                    </td>
+                    <td>@detail.Product.Name</td>
+                    <td>@detail.Price.ToString("N0") VNĐ</td>
+                    <td>@detail.Quantity</td>
+                    <td>@((detail.Price * detail.Quantity).ToString("N0")) VNĐ</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <h4>Total: @Model.TotalAmount.ToString("N0") VNĐ</h4>
+    <a asp-controller="Shop" asp-action="Index" class="btn btn-primary">Continue Shopping</a>
+</div>

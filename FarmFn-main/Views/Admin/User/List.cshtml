@@ -1,0 +1,39 @@
+@model List<Farm.Models.User>
+
+<div class="table-responsive">
+    <div class="add-search-user mb-3">
+        <div class="btn-add-user">
+            <a href="#" class="btn btn-success" onclick="loadAddForm(event)">Add</a>
+        </div>
+        <div class="form-search ms-2">
+            <input type="text" id="search-user-input" class="form-control" placeholder="Search..." />
+        </div>
+        <div class="btn-search ms-2">
+            <button class="btn btn-primary search-user-button" type="button">Search</button>
+        </div>
+    </div>
+    <table class="table table-bordered table-hover">
+        <thead class="table-primary">
+            <tr>
+                <th>Full Name</th>
+                <th>Username</th>
+                <th>Permissions</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody class="blogtable">
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.Name</td>
+                    <td>@user.Username</td>
+                    <td>@(user.Role == 1 ? "Quản trị viên" : "Nhân viên")</td>
+                    <td>
+                        <a href="#" class="btn btn-sm btn-warning" onclick="loadEditForm(event, @user.Id)">Edit</a>
+                        <a href="#" class="btn btn-sm btn-danger" onclick="deleteUser(event, @user.Id)">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

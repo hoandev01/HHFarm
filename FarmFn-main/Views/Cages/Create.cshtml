@@ -1,0 +1,76 @@
+﻿@model Farm.Models.Cage
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container mt-5">
+    <h1 class="display-4 text-center mb-4">Create Cage</h1>
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Create" class="bg-light p-4 rounded shadow">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                <div class="mb-3">
+                    <label asp-for="name" class="form-label fw-bold"></label>
+                    <input asp-for="name" class="form-control" />
+                    <span asp-validation-for="name" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="users_id" class="form-label fw-bold"></label>
+                    <input asp-for="users_id" class="form-control" />
+                    <span asp-validation-for="users_id" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="category_id" class="form-label fw-bold"></label>
+                    <input asp-for="category_id" class="form-control" />
+                    <span asp-validation-for="category_id" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="quantity" class="form-label fw-bold"></label>
+                    <input asp-for="quantity" class="form-control" />
+                    <span asp-validation-for="quantity" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="status" class="form-label fw-bold"></label>
+                    <input asp-for="status" class="form-control" />
+                    <span asp-validation-for="status" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="note" class="form-label fw-bold"></label>
+                    <input asp-for="note" class="form-control" />
+                    <span asp-validation-for="note" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="created_at" class="form-label fw-bold"></label>
+                    <input asp-for="created_at" class="form-control" type="datetime-local" />
+                    <span asp-validation-for="created_at" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="close_at" class="form-label fw-bold"></label>
+                    <input asp-for="close_at" class="form-control" type="datetime-local" />
+                    <span asp-validation-for="close_at" class="text-danger"></span>
+                </div>
+
+                <div class="d-grid gap-2">
+                    <input type="submit" value="Create" class="btn btn-primary btn-lg" />
+                    <a asp-action="Index" class="btn btn-secondary btn-lg">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

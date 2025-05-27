@@ -1,0 +1,55 @@
+﻿@model Farm.Models.News
+
+@{
+    ViewData["Title"] = "Add New News";
+}
+
+<div class="container mt-4">
+    <h1 class="h3 mb-4 text-primary">Add New News</h1>
+
+    <div class="card">
+        <div class="card-header bg-success text-white">
+            <h5 class="mb-0">News Information</h5>
+        </div>
+        <div class="card-body">
+            <form asp-action="Create" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="mb-3">
+                    <label asp-for="image" class="form-label fw-bold"></label>
+                    <input asp-for="image" class="form-control border-primary" />
+                    <span asp-validation-for="image" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="title" class="form-label fw-bold"></label>
+                    <input asp-for="title" class="form-control border-primary" />
+                    <span asp-validation-for="title" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="subtit" class="form-label fw-bold"></label>
+                    <input asp-for="subtit" class="form-control border-primary" />
+                    <span asp-validation-for="subtit" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="content" class="form-label fw-bold"></label>
+                    <textarea asp-for="content" class="form-control border-primary" rows="5"></textarea>
+                    <span asp-validation-for="content" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="created_at" class="form-label fw-bold"></label>
+                    <input asp-for="created_at" type="datetime-local" class="form-control border-primary" />
+                    <span asp-validation-for="created_at" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <input type="submit" value="Thêm" class="btn btn-success" />               
+                    <a asp-action="Index" class="btn btn-outline-secondary ms-2">Back</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

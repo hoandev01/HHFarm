@@ -1,0 +1,35 @@
+﻿@model Farm.Models.User
+
+@{
+    ViewData["Title"] = "User Details";
+}
+
+<div class="container mt-4">
+    <h1 class="h3 mb-4 text-info">User Details</h1>
+
+    <div class="card">
+        <div class="card-header bg-info text-white">
+            <h5 class="mb-0">User Information</h5>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3 fw-bold">Name</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Name)</dd>
+                <dt class="col-sm-3 fw-bold">Username</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Username)</dd>
+                <dt class="col-sm-3 fw-bold">Password</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Password)</dd>
+                <dt class="col-sm-3 fw-bold">Role</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Role)</dd>
+                <dt class="col-sm-3 fw-bold">Phone Number</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.PhoneNumber)</dd>
+                <dt class="col-sm-3 fw-bold">Email</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Email)</dd>
+            </dl>
+        </div>
+        <div class="card-footer">
+            <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning me-2">Edit</a>
+            <a asp-action="Index" class="btn btn-outline-secondary">Back</a>
+        </div>
+    </div>
+</div>

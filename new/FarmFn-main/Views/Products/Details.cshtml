@@ -1,0 +1,35 @@
+﻿@model Farm.Models.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<div class="container mt-4">
+    <h1 class="h3 mb-4 text-info">Product Details</h1>
+
+    <div class="card">
+        <div class="card-header bg-info text-white">
+            <h5 class="mb-0">Product Information</h5>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3 fw-bold">Name</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Name)</dd>
+                <dt class="col-sm-3 fw-bold">Price</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Price)</dd>
+                <dt class="col-sm-3 fw-bold">Stock</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Stock)</dd>
+                <dt class="col-sm-3 fw-bold">Image</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Image)</dd>
+                <dt class="col-sm-3 fw-bold">Description</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Description)</dd>
+                <dt class="col-sm-3 fw-bold">Category</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Category)</dd>
+            </dl>
+        </div>
+        <div class="card-footer">
+            <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning me-2">Edit</a>
+            <a asp-action="Index" class="btn btn-outline-secondary">Back</a>
+        </div>
+    </div>
+</div>

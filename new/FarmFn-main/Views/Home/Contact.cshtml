@@ -1,0 +1,247 @@
+@{
+    ViewData["Title"] = "Contact";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- Contact Section -->
+<section class="contact-section py-5 py-md-6 bg-light">
+    <div class="container">
+        <h2 class="text-center mb-5 text-primary fw-bold display-5">Contact Us</h2>
+        <div class="row">
+            <div class="col-md-6 mb-4 mb-md-0">
+                <h4 class="text-primary mb-4 fw-semibold">Please send us your information</h4>
+                <div>
+                    <div class="mb-3">
+                        <label for="name" class="form-label fw-medium">Full Name  <span class="text-danger">*</span></label>
+                        <input type="text" class="form-control rounded-3" id="name" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="phone" class="form-label fw-medium">Phone Number<span class="text-danger">*</span></label>
+                        <input type="text" class="form-control rounded-3" id="phone" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="message" class="form-label fw-medium">Message</label>
+                        <textarea class="form-control rounded-3" id="message" rows="4"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-success btn-lg px-5 fw-semibold">Submit</button>
+                </div>
+            </div>
+            <div class="col-md-6 text-center text-md-start">
+                <h4 class="text-primary mb-4 fw-semibold">Install Our App</h4>
+                <p class="text-muted mb-3">Please scan the QR code to install the app</p>
+                <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://example.com" alt="QR Code" class="img-fluid mb-3 rounded-3" style="width: 150px;" />
+                <p class="mt-3">
+                    <strong class="text-dark">Hotline:</strong> <span class="text-danger fw-semibold">0976393816 ; 0339188182</span>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Custom CSS -->
+<style>
+    /* Gradient Background for Hero Section */
+    .bg-gradient-primary {
+        background: linear-gradient(135deg, #1e88e5 0%, #0d47a1 100%);
+    }
+
+    /* Wave Effect for Hero Section (Simplified) */
+    .wave-bottom {
+        background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 320'%3E%3Cpath fill='%23f8f9fa' fill-opacity='1' d='M0,192L48,186.7C96,181,192,171,288,181.3C384,192,480,224,576,229.3C672,235,768,213,864,197.3C960,181,1056,171,1152,181.3C1248,192,1344,224,1392,240L1440,256L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z'%3E%3C/path%3E%3C/svg%3E") repeat-x;
+    }
+
+    /* Hero Section Styling */
+    .hero-section .video-placeholder {
+        position: relative;
+        overflow: hidden;
+    }
+
+    .hero-section .play-button {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #fff;
+        background: rgba(0, 0, 0, 0.6);
+        border-radius: 50%;
+        padding: 20px 25px;
+        transition: background 0.3s ease, transform 0.3s ease;
+    }
+
+        .hero-section .play-button:hover {
+            background: rgba(0, 0, 0, 0.8);
+            transform: translate(-50%, -50%) scale(1.1);
+        }
+
+    /* Feature Items Styling */
+    .feature-item {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .feature-item:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1) !important;
+        }
+
+        .feature-item i {
+            color: #0d6efd;
+            transition: transform 0.3s ease;
+        }
+
+        .feature-item:hover i {
+            transform: scale(1.1); /* Phóng to nhẹ khi hover */
+        }
+
+    /* Testimonials Section Styling */
+    .testimonials-section .card {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .testimonials-section .card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1) !important;
+        }
+
+        .testimonials-section .card i {
+            color: #0d6efd;
+            transition: transform 0.3s ease;
+        }
+
+        .testimonials-section .card:hover i {
+            transform: scale(1.1);
+        }
+
+    /* Custom Orange Button for Liên hệ tư vấn */
+    .btn-orange {
+        background-color: #ff6200;
+        border-color: #ff6200;
+    }
+
+        .btn-orange:hover {
+            background-color: #e55a00; /* Màu cam tối hơn khi hover */
+            border-color: #e55a00;
+        }
+
+    /* Benefits Section Styling */
+    .benefits-section ul li {
+        font-size: 1.1rem;
+    }
+
+    .benefits-section .check-icon {
+        color: #0d6efd;
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
+
+    /* Contact Section Styling */
+    .contact-section .form-control {
+        border: 1px solid #ced4da; /* Viền nhẹ hơn */
+        transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .contact-section .form-control:focus {
+            border-color: #0d6efd;
+            box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.1); /* Hiệu ứng nhẹ hơn */
+        }
+
+    .contact-section .btn-success {
+        background-color: #28a745; /* Màu xanh lá cây */
+        border-color: #28a745;
+    }
+
+        .contact-section .btn-success:hover {
+            background-color: #218838; /* Màu xanh lá cây tối hơn khi hover */
+            border-color: #1e7e34;
+        }
+
+    .contact-section img {
+        border: 1px solid #dee2e6; /* Viền nhẹ cho mã QR */
+        box-shadow: none !important; /* Loại bỏ đổ bóng */
+    }
+
+    /* Floating Buttons Styling */
+    .floating-buttons {
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        z-index: 1000;
+    }
+
+        .floating-buttons .btn {
+            width: 60px;
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+            .floating-buttons .btn:hover {
+                transform: scale(1.15);
+                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2) !important;
+            }
+
+    /* Custom Zalo Button Styling */
+    .btn-zalo {
+        background: linear-gradient(135deg, #00A4E4 0%, #007BB5 100%); /* Gradient cho nút Zalo */
+        border: none;
+        color: #fff;
+        position: relative;
+        overflow: hidden;
+    }
+
+        .btn-zalo:hover {
+            background: linear-gradient(135deg, #007BB5 0%, #00A4E4 100%); /* Đảo gradient khi hover */
+        }
+
+        .btn-zalo i {
+            transition: transform 0.3s ease;
+        }
+
+        .btn-zalo:hover i {
+            transform: rotate(360deg); /* Hiệu ứng xoay biểu tượng khi hover */
+        }
+
+        /* Hiệu ứng ánh sáng */
+        .btn-zalo::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255, 255, 255, 0.3), transparent);
+            opacity: 0;
+            transition: opacity 0.5s ease;
+        }
+
+        .btn-zalo:hover::before {
+            opacity: 1;
+        }
+
+    /* News Cards Styling */
+    .news-section .card {
+        transition: transform 0.3s ease;
+    }
+
+        .news-section .card:hover {
+            transform: translateY(-5px); /* Hiệu ứng nâng nhẹ hơn */
+        }
+
+    .news-section .card-img-top {
+        height: 180px; /* Kích thước nhỏ hơn */
+        object-fit: cover;
+    }
+</style>
+
+<!-- Initialize Bootstrap Tooltips -->
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+        var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+            return new bootstrap.Tooltip(tooltipTriggerEl);
+        });
+    });
+</script>

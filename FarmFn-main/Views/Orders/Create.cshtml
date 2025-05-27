@@ -1,0 +1,55 @@
+﻿@model Farm.Models.Order
+
+@{
+    ViewData["Title"] = "Add New Order";
+}
+
+<div class="container mt-4">
+    <h1 class="h3 mb-4 text-primary">Add New Order</h1>
+
+    <div class="card">
+        <div class="card-header bg-success text-white">
+            <h5 class="mb-0">Order Information</h5>
+        </div>
+        <div class="card-body">
+            <form asp-action="Create" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="mb-3">
+                    <label asp-for="UserId" class="form-label fw-bold"></label>
+                    <input asp-for="UserId" class="form-control border-primary" />
+                    <span asp-validation-for="UserId" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="OrderDate" class="form-label fw-bold"></label>
+                    <input asp-for="OrderDate" type="datetime-local" class="form-control border-primary" />
+                    <span asp-validation-for="OrderDate" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="TotalAmount" class="form-label fw-bold"></label>
+                    <input asp-for="TotalAmount" class="form-control border-primary" />
+                    <span asp-validation-for="TotalAmount" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="PaymentMethod" class="form-label fw-bold"></label>
+                    <input asp-for="PaymentMethod" class="form-control border-primary" />
+                    <span asp-validation-for="PaymentMethod" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Status" class="form-label fw-bold"></label>
+                    <input asp-for="Status" class="form-control border-primary" />
+                    <span asp-validation-for="Status" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <input type="submit" value="Add" class="btn btn-success" />
+                    <a asp-action="Index" class="btn btn-outline-secondary ms-2">Back</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

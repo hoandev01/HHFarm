@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\FARM-NEW\\FarmFn-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|e:\\code\\farm-new\\farmfn-main\\views\\cages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|solutionrelative:views\\cages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|e:\\code\\farm-new\\farmfn-main\\views\\cages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|solutionrelative:views\\cages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|e:\\code\\farm-new\\farmfn-main\\views\\cages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|solutionrelative:views\\cages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|e:\\code\\farm-new\\farmfn-main\\views\\cages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|solutionrelative:views\\cages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|e:\\code\\farm-new\\farmfn-main\\views\\cages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|solutionrelative:views\\cages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|e:\\code\\farm-new\\farmfn-main\\controllers\\admin\\cagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|solutionrelative:controllers\\admin\\cagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|e:\\code\\farm-new\\farmfn-main\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|solutionrelative:views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|e:\\code\\farm-new\\farmfn-main\\controllers\\admin\\surveyformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|solutionrelative:controllers\\admin\\surveyformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|e:\\code\\farm-new\\farmfn-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|e:\\code\\farm-new\\farmfn-main\\migrations\\20250427082716_farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|solutionrelative:migrations\\20250427082716_farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|e:\\code\\farm-new\\farmfn-main\\migrations\\20250523022239_updatemodelsforroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|solutionrelative:migrations\\20250523022239_updatemodelsforroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|e:\\code\\farm-new\\farmfn-main\\migrations\\20250430063059_addordersandorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|solutionrelative:migrations\\20250430063059_addordersandorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|e:\\code\\farm-new\\farmfn-main\\migrations\\20250429091715_adduseractivationfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|solutionrelative:migrations\\20250429091715_adduseractivationfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|e:\\code\\farm-new\\farmfn-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|e:\\code\\farm-new\\farmfn-main\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54366F28-4A22-5455-3637-BD6C9B23615C}|Farm.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Code\\FARM-NEW\\FarmFn-main\\Views\\Cages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cages\\Index.cshtml",
+              "ToolTip": "E:\\Code\\FARM-NEW\\FarmFn-main\\Views\\Cages\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cages\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T07:31:00.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Code\\FARM-NEW\\FarmFn-main\\Views\\Cages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cages\\Edit.cshtml",
+              "ToolTip": "E:\\Code\\FARM-NEW\\FarmFn-main\\Views\\Cages\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Cages\\Edit.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwDIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T07:30:31.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Code\\FARM-NEW\\FarmFn-main\\Views\\Cages\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cages\\Details.cshtml",
+              "ToolTip": "E:\\Code\\FARM-NEW\\FarmFn-main\\Views\\Cages\\Details.cshtml",
+              "RelativeToolTip": "Views\\Cages\\Details.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwDIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T07:29:47.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Code\\FARM-NEW\\FarmFn-main\\Views\\Cages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cages\\Delete.cshtml",
+              "ToolTip": "E:\\Code\\FARM-NEW\\FarmFn-main\\Views\\Cages\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Cages\\Delete.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T07:29:18.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Code\\FARM-NEW\\FarmFn-main\\Views\\Cages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cages\\Create.cshtml",
+              "ToolTip": "E:\\Code\\FARM-NEW\\FarmFn-main\\Views\\Cages\\Create.cshtml",
+              "RelativeToolTip": "Views\\Cages\\Create.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T07:28:50.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CagesController.cs",
+              "DocumentMoniker": "E:\\Code\\FARM-NEW\\FarmFn-main\\Controllers\\Admin\\CagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Admin\\CagesController.cs",
+              "ToolTip": "E:\\Code\\FARM-NEW\\FarmFn-main\\Controllers\\Admin\\CagesController.cs",
+              "RelativeToolTip": "Controllers\\Admin\\CagesController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAuwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:27:59.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "E:\\Code\\FARM-NEW\\FarmFn-main\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "E:\\Code\\FARM-NEW\\FarmFn-main\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T07:16:27.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SurveyFormsController.cs",
+              "DocumentMoniker": "E:\\Code\\FARM-NEW\\FarmFn-main\\Controllers\\Admin\\SurveyFormsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Admin\\SurveyFormsController.cs",
+              "ToolTip": "E:\\Code\\FARM-NEW\\FarmFn-main\\Controllers\\Admin\\SurveyFormsController.cs",
+              "RelativeToolTip": "Controllers\\Admin\\SurveyFormsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:13:19.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\FARM-NEW\\FarmFn-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Code\\FARM-NEW\\FarmFn-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAhwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:43:54.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250429091715_AddUserActivationFields.cs",
+              "DocumentMoniker": "E:\\Code\\FARM-NEW\\FarmFn-main\\Migrations\\20250429091715_AddUserActivationFields.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250429091715_AddUserActivationFields.cs",
+              "ToolTip": "E:\\Code\\FARM-NEW\\FarmFn-main\\Migrations\\20250429091715_AddUserActivationFields.cs",
+              "RelativeToolTip": "Migrations\\20250429091715_AddUserActivationFields.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:16:53.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250427082716_farm.cs",
+              "DocumentMoniker": "E:\\Code\\FARM-NEW\\FarmFn-main\\Migrations\\20250427082716_farm.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250427082716_farm.cs",
+              "ToolTip": "E:\\Code\\FARM-NEW\\FarmFn-main\\Migrations\\20250427082716_farm.cs",
+              "RelativeToolTip": "Migrations\\20250427082716_farm.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAQwCMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:16:03.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250430063059_AddOrdersAndOrderDetails.cs",
+              "DocumentMoniker": "E:\\Code\\FARM-NEW\\FarmFn-main\\Migrations\\20250430063059_AddOrdersAndOrderDetails.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250430063059_AddOrdersAndOrderDetails.cs",
+              "ToolTip": "E:\\Code\\FARM-NEW\\FarmFn-main\\Migrations\\20250430063059_AddOrdersAndOrderDetails.cs",
+              "RelativeToolTip": "Migrations\\20250430063059_AddOrdersAndOrderDetails.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:13:45.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250523022239_UpdateModelsForRoles.cs",
+              "DocumentMoniker": "E:\\Code\\FARM-NEW\\FarmFn-main\\Migrations\\20250523022239_UpdateModelsForRoles.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250523022239_UpdateModelsForRoles.cs",
+              "ToolTip": "E:\\Code\\FARM-NEW\\FarmFn-main\\Migrations\\20250523022239_UpdateModelsForRoles.cs",
+              "RelativeToolTip": "Migrations\\20250523022239_UpdateModelsForRoles.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:12:00.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Code\\FARM-NEW\\FarmFn-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Code\\FARM-NEW\\FarmFn-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T06:09:14.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Code\\FARM-NEW\\FarmFn-main\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
+              "ToolTip": "E:\\Code\\FARM-NEW\\FarmFn-main\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T05:59:36.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

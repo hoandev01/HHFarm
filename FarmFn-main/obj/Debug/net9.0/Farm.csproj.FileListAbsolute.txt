@@ -1,0 +1,1122 @@
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\appsettings.Development.json
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\appsettings.json
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Farm.staticwebassets.runtime.json
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Farm.staticwebassets.endpoints.json
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Farm.exe
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Farm.deps.json
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Farm.runtimeconfig.json
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Farm.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Farm.pdb
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Azure.Core.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Azure.Identity.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Humanizer.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\MailKit.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Build.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\MimeKit.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\NuGet.Common.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\System.ClientModel.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\System.CodeDom.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\System.Memory.Data.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOB FREELANCE\FarmFn-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\Farm.csproj.AssemblyReference.cache
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\Farm.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\Farm.AssemblyInfoInputs.cache
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\Farm.AssemblyInfo.cs
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\Farm.csproj.CoreCompileInputs.cache
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\Farm.MvcApplicationPartsAssemblyInfo.cache
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\Farm.RazorAssemblyInfo.cache
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\Farm.RazorAssemblyInfo.cs
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\scopedcss\bundle\Farm.styles.css
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\ou286jckdk-z4ywvbhwt2.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\f2g2prir9p-d7xs29558n.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\td4e06f1rr-rawpvewmxy.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\okmm00vr3i-gqf561zupw.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\b2cscz4m2s-fhzvzde6yv.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\qmq9oylcdr-h8fygv7b5m.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\camhxwhqi5-lugek5hnai.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\fp0toldbwl-86ep7gcsy0.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\hctu3rik5t-pmhuwcxug5.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\70e98ozeuj-61n19gt1b8.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\koahpr5pw4-91wnmklwsd.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\8w0y39zy4z-lldi1gp3m8.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\9jimsegttc-pie4ea19f6.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\4xna4txvna-bqjiyaj88i.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\43myqp028q-c2jlpeoesf.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\1ojvycpgs3-erw9l3u2r3.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\3v56mfvtdr-aexeepp0ev.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\7wnf8vijnt-d7shbmvgxk.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\qg5jw8so0q-ausgxo2sd3.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\bbfox188wp-k8d9w2qqmf.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\r6lqbdb4bw-cosvhxvwiu.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\6tkd8fgffc-ub07r2b239.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\1ar6deu5el-fvhpjtyr6v.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\j0b5wrwevv-b7pk76d08c.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\n1bge1jm42-fsbi9cje9m.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\5urhujb2fg-rzd6atqjts.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\3omqexa5lq-ee0r1s7dh0.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\k9qeniwhsb-dxx9fxp4il.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\ywopuf3qlf-jd9uben2k1.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\8zm4fnqn7y-khv3u5hwcm.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\2wn5rzdifx-r4e9w2rdcm.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\jwmtg65l5t-lcd1t2u6c8.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\354iuta1oq-c2oey78nd0.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\g7gyhi3trs-tdbxkamptv.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\gc9tsmn6hc-j5mq2jizvt.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\hm03p5283q-06098lyss8.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\obflv64mmy-nvvlpmu67g.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\ftq2vo1dv7-s35ty4nyc5.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\2bxoyf7thw-pj5nd1wqec.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\n1i379uz5z-46ein0sx1k.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\2lxkpkpjn9-v0zj4ognzu.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\xocr1aqlu4-37tfw0ft22.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\j8bysk17aw-hrwsygsryq.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\smsskxfx61-pk9g2wxc8p.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\jpmtyhzyl4-ft3s53vfgj.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\80b7a109i0-6cfz1n2cew.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\w756uiua5m-6pdc2jztkx.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\g0u4xw8li2-493y06b0oq.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\7j76iye7ca-iovd86k7lj.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\ozstwrslgq-vr1egmr9el.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\3bsgy1ikly-kbrnm935zg.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\irwnpa0gmz-jj8uyg4cgr.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\08byenuccs-y7v9cxd14o.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\bcmzvsdazr-notf2xhcfb.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\6513k53jeg-h1s4sie4z3.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\7p2eajgpjg-63fj8s7r0e.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\3ce4x1lfjr-0j3bgjxly4.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\ygi9m9v5bb-r6j690paib.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\6zgtvhgpxe-q3t4tanrav.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\607b1h5hs1-3ivv1muq6k.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\dfuwjvn8qr-laj20hhr0t.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\sq3owt84h5-2oe2if2yst.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\ln3hztyv5d-qmhbziwjaf.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\w8jwje0upq-2d9ce22rt2.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\8sy5ktz5wa-35mqnp4ipr.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\rbnzxsbecu-5ipweew5fc.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\0032gji4mo-ty3cljo4uk.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\14c13h6fww-r7jlv9ghu7.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\c6vr518142-ar4l0pljwf.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\8i1dvumroh-5e99od2ynj.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\llb57r7y78-2rw747xgy5.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\98s3gaqtfr-kwr5fh87n2.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\8nnjw065uf-cgzg2xmm8w.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\p85aux0wgm-iidiyunwge.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\lnvw5fvghl-f2pqk8oo4h.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\jb8s55sgpp-3sy31h29ac.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\n8o3nhirpm-6h11ur3u9n.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\rd8oqtnwln-8zozq38clt.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\pltgj5ubbw-5ipweew5fc.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\d55yath0fg-1sdkn6aojw.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\b9w3g1drxn-6dauv8xzs0.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\3xvlmy039i-ttqbrca1it.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\4vkfl1y6sr-p20fd1z02r.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\dladjw5ho2-w7lmqd1sr8.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\s9r1tnyoud-5ipweew5fc.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\4ss7t2wchp-47otxtyo56.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\nrz8l91e8v-4v8eqarkd7.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\vzasmj1pav-l3n5xuwxn8.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\c1h3kr8mio-ilo7uva0vt.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\wyd10e6s51-qlccset4i1.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\0i4b67ylu2-lzl9nlhx6b.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\gzll7jfcf1-ag7o75518u.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\cc4pzwagxp-xzw0cte36n.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\py8o4wgyfr-0i3buxo5is.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\3ozrlwoegf-o1o13a6vjx.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\6apxec8p08-ttgo8qnofa.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\d8qsw0xig6-2z0ns9nrw6.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\xj4e5kzvpv-muycvpuwrr.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\2v5fd3tuk4-87fc7y1x7t.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\compressed\ydyywkuoga-jfsiqqwiad.gz
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\staticwebassets.build.json
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\staticwebassets.development.json
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\Farm.csproj.Up2Date
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\Farm.dll
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\refint\Farm.dll
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\Farm.pdb
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\Farm.genruntimeconfig.cache
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\ref\Farm.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\appsettings.Development.json
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\appsettings.json
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Farm.staticwebassets.endpoints.json
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Farm.staticwebassets.runtime.json
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Farm.exe
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Farm.deps.json
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Farm.runtimeconfig.json
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Farm.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Farm.pdb
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Azure.Core.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Azure.Identity.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Humanizer.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\MailKit.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Build.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\MimeKit.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\NuGet.Common.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\System.ClientModel.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\System.CodeDom.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\System.Memory.Data.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\System.Text.Json.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOB FREELANCE\done\FarmFn-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\Farm.csproj.AssemblyReference.cache
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\Farm.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\Farm.AssemblyInfoInputs.cache
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\Farm.AssemblyInfo.cs
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\Farm.csproj.CoreCompileInputs.cache
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\Farm.MvcApplicationPartsAssemblyInfo.cache
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\Farm.RazorAssemblyInfo.cache
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\Farm.RazorAssemblyInfo.cs
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\scopedcss\bundle\Farm.styles.css
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\ou286jckdk-z4ywvbhwt2.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\f2g2prir9p-d7xs29558n.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\td4e06f1rr-rawpvewmxy.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\okmm00vr3i-gqf561zupw.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\b2cscz4m2s-fhzvzde6yv.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\qmq9oylcdr-h8fygv7b5m.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\camhxwhqi5-lugek5hnai.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\fp0toldbwl-86ep7gcsy0.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\hctu3rik5t-pmhuwcxug5.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\70e98ozeuj-61n19gt1b8.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\koahpr5pw4-91wnmklwsd.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\8w0y39zy4z-lldi1gp3m8.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\9jimsegttc-pie4ea19f6.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\4xna4txvna-bqjiyaj88i.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\43myqp028q-c2jlpeoesf.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\1ojvycpgs3-erw9l3u2r3.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\3v56mfvtdr-aexeepp0ev.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\7wnf8vijnt-d7shbmvgxk.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\qg5jw8so0q-ausgxo2sd3.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\bbfox188wp-k8d9w2qqmf.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\r6lqbdb4bw-cosvhxvwiu.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\6tkd8fgffc-ub07r2b239.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\1ar6deu5el-fvhpjtyr6v.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\j0b5wrwevv-b7pk76d08c.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\n1bge1jm42-fsbi9cje9m.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\5urhujb2fg-rzd6atqjts.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\3omqexa5lq-ee0r1s7dh0.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\k9qeniwhsb-dxx9fxp4il.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\ywopuf3qlf-jd9uben2k1.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\8zm4fnqn7y-khv3u5hwcm.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\2wn5rzdifx-r4e9w2rdcm.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\jwmtg65l5t-lcd1t2u6c8.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\354iuta1oq-c2oey78nd0.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\g7gyhi3trs-tdbxkamptv.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\gc9tsmn6hc-j5mq2jizvt.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\hm03p5283q-06098lyss8.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\obflv64mmy-nvvlpmu67g.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\ftq2vo1dv7-s35ty4nyc5.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\2bxoyf7thw-pj5nd1wqec.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\n1i379uz5z-46ein0sx1k.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\2lxkpkpjn9-v0zj4ognzu.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\xocr1aqlu4-37tfw0ft22.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\j8bysk17aw-hrwsygsryq.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\smsskxfx61-pk9g2wxc8p.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\jpmtyhzyl4-ft3s53vfgj.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\80b7a109i0-6cfz1n2cew.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\w756uiua5m-6pdc2jztkx.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\g0u4xw8li2-493y06b0oq.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\7j76iye7ca-iovd86k7lj.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\ozstwrslgq-vr1egmr9el.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\3bsgy1ikly-kbrnm935zg.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\irwnpa0gmz-jj8uyg4cgr.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\08byenuccs-y7v9cxd14o.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\bcmzvsdazr-notf2xhcfb.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\6513k53jeg-h1s4sie4z3.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\7p2eajgpjg-63fj8s7r0e.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\3ce4x1lfjr-0j3bgjxly4.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\ygi9m9v5bb-r6j690paib.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\6zgtvhgpxe-q3t4tanrav.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\607b1h5hs1-3ivv1muq6k.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\dfuwjvn8qr-laj20hhr0t.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\sq3owt84h5-2oe2if2yst.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\ln3hztyv5d-qmhbziwjaf.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\w8jwje0upq-2d9ce22rt2.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\8sy5ktz5wa-35mqnp4ipr.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\rbnzxsbecu-5ipweew5fc.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\0032gji4mo-ty3cljo4uk.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\14c13h6fww-r7jlv9ghu7.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\c6vr518142-ar4l0pljwf.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\8i1dvumroh-5e99od2ynj.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\llb57r7y78-2rw747xgy5.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\98s3gaqtfr-kwr5fh87n2.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\8nnjw065uf-cgzg2xmm8w.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\p85aux0wgm-iidiyunwge.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\lnvw5fvghl-f2pqk8oo4h.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\jb8s55sgpp-3sy31h29ac.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\n8o3nhirpm-6h11ur3u9n.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\rd8oqtnwln-8zozq38clt.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\pltgj5ubbw-5ipweew5fc.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\d55yath0fg-1sdkn6aojw.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\b9w3g1drxn-6dauv8xzs0.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\3xvlmy039i-ttqbrca1it.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\4vkfl1y6sr-p20fd1z02r.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\dladjw5ho2-w7lmqd1sr8.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\s9r1tnyoud-5ipweew5fc.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\4ss7t2wchp-47otxtyo56.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\nrz8l91e8v-4v8eqarkd7.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\vzasmj1pav-l3n5xuwxn8.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\c1h3kr8mio-ilo7uva0vt.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\wyd10e6s51-qlccset4i1.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\0i4b67ylu2-lzl9nlhx6b.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\gzll7jfcf1-ag7o75518u.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\cc4pzwagxp-xzw0cte36n.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\py8o4wgyfr-0i3buxo5is.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\3ozrlwoegf-o1o13a6vjx.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\6apxec8p08-ttgo8qnofa.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\d8qsw0xig6-2z0ns9nrw6.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\xj4e5kzvpv-muycvpuwrr.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\2v5fd3tuk4-87fc7y1x7t.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\compressed\ydyywkuoga-jfsiqqwiad.gz
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\staticwebassets.build.json
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\staticwebassets.development.json
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\staticwebassets\msbuild.Farm.Microsoft.AspNetCore.StaticWebAssets.props
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\staticwebassets\msbuild.Farm.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\staticwebassets\msbuild.build.Farm.props
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Farm.props
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Farm.props
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\staticwebassets.pack.json
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\Farm.csproj.Up2Date
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\Farm.dll
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\refint\Farm.dll
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\Farm.pdb
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\Farm.genruntimeconfig.cache
+D:\JOB FREELANCE\done\FarmFn-main\obj\Debug\net9.0\ref\Farm.dll
+D:\JOB FREELANCE\FarmFn-main\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\appsettings.Development.json
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\appsettings.json
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Farm.staticwebassets.runtime.json
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Farm.staticwebassets.endpoints.json
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Farm.exe
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Farm.deps.json
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Farm.runtimeconfig.json
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Farm.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Farm.pdb
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Azure.Core.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Azure.Identity.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Humanizer.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\MailKit.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Build.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\MimeKit.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\NuGet.Common.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\NuGet.Configuration.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\NuGet.Frameworks.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\NuGet.LibraryModel.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\NuGet.Packaging.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\NuGet.ProjectModel.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\NuGet.Protocol.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\NuGet.Versioning.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\System.ClientModel.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\System.CodeDom.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\af\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ar\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\az\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\bg\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\cs\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\da\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\de\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\el\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\es\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\fa\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\fr\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\he\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\hr\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\hu\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\hy\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\id\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\is\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\it\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ja\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ku\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\lv\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\mt\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\nb\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\nl\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pl\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pt\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ro\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ru\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\sk\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\sl\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\sr\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\sv\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\tr\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\uk\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\vi\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code\FARM-NEW\FarmFn-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\Farm.csproj.AssemblyReference.cache
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\Farm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\Farm.AssemblyInfoInputs.cache
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\Farm.AssemblyInfo.cs
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\Farm.csproj.CoreCompileInputs.cache
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\Farm.MvcApplicationPartsAssemblyInfo.cache
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\Farm.RazorAssemblyInfo.cache
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\Farm.RazorAssemblyInfo.cs
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\scopedcss\bundle\Farm.styles.css
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\ou286jckdk-z4ywvbhwt2.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\f2g2prir9p-d7xs29558n.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\td4e06f1rr-rawpvewmxy.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\okmm00vr3i-gqf561zupw.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\b2cscz4m2s-fhzvzde6yv.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\qmq9oylcdr-h8fygv7b5m.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\camhxwhqi5-lugek5hnai.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\fp0toldbwl-86ep7gcsy0.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\hctu3rik5t-pmhuwcxug5.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\70e98ozeuj-61n19gt1b8.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\koahpr5pw4-91wnmklwsd.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\8w0y39zy4z-lldi1gp3m8.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\9jimsegttc-pie4ea19f6.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\4xna4txvna-bqjiyaj88i.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\43myqp028q-c2jlpeoesf.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\1ojvycpgs3-erw9l3u2r3.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\3v56mfvtdr-aexeepp0ev.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\7wnf8vijnt-d7shbmvgxk.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\qg5jw8so0q-ausgxo2sd3.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\bbfox188wp-k8d9w2qqmf.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\r6lqbdb4bw-cosvhxvwiu.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\6tkd8fgffc-ub07r2b239.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\1ar6deu5el-fvhpjtyr6v.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\j0b5wrwevv-b7pk76d08c.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\n1bge1jm42-fsbi9cje9m.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\5urhujb2fg-rzd6atqjts.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\3omqexa5lq-ee0r1s7dh0.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\k9qeniwhsb-dxx9fxp4il.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\ywopuf3qlf-jd9uben2k1.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\8zm4fnqn7y-khv3u5hwcm.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\2wn5rzdifx-r4e9w2rdcm.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\jwmtg65l5t-lcd1t2u6c8.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\354iuta1oq-c2oey78nd0.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\g7gyhi3trs-tdbxkamptv.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\gc9tsmn6hc-j5mq2jizvt.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\hm03p5283q-06098lyss8.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\obflv64mmy-nvvlpmu67g.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\ftq2vo1dv7-s35ty4nyc5.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\2bxoyf7thw-pj5nd1wqec.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\n1i379uz5z-46ein0sx1k.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\2lxkpkpjn9-v0zj4ognzu.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\xocr1aqlu4-37tfw0ft22.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\j8bysk17aw-hrwsygsryq.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\smsskxfx61-pk9g2wxc8p.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\jpmtyhzyl4-ft3s53vfgj.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\80b7a109i0-6cfz1n2cew.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\w756uiua5m-6pdc2jztkx.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\g0u4xw8li2-493y06b0oq.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\7j76iye7ca-iovd86k7lj.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\ozstwrslgq-vr1egmr9el.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\3bsgy1ikly-kbrnm935zg.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\irwnpa0gmz-jj8uyg4cgr.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\08byenuccs-y7v9cxd14o.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\bcmzvsdazr-notf2xhcfb.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\6513k53jeg-h1s4sie4z3.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\7p2eajgpjg-63fj8s7r0e.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\3ce4x1lfjr-0j3bgjxly4.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\ygi9m9v5bb-r6j690paib.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\6zgtvhgpxe-q3t4tanrav.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\607b1h5hs1-3ivv1muq6k.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\dfuwjvn8qr-laj20hhr0t.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\sq3owt84h5-2oe2if2yst.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\ln3hztyv5d-qmhbziwjaf.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\w8jwje0upq-2d9ce22rt2.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\8sy5ktz5wa-35mqnp4ipr.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\rbnzxsbecu-5ipweew5fc.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\0032gji4mo-ty3cljo4uk.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\14c13h6fww-r7jlv9ghu7.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\c6vr518142-ar4l0pljwf.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\8i1dvumroh-5e99od2ynj.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\llb57r7y78-2rw747xgy5.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\98s3gaqtfr-kwr5fh87n2.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\8nnjw065uf-cgzg2xmm8w.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\p85aux0wgm-iidiyunwge.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\lnvw5fvghl-f2pqk8oo4h.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\jb8s55sgpp-3sy31h29ac.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\n8o3nhirpm-6h11ur3u9n.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\rd8oqtnwln-8zozq38clt.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\pltgj5ubbw-5ipweew5fc.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\d55yath0fg-1sdkn6aojw.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\b9w3g1drxn-6dauv8xzs0.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\3xvlmy039i-ttqbrca1it.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\4vkfl1y6sr-p20fd1z02r.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\dladjw5ho2-w7lmqd1sr8.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\s9r1tnyoud-5ipweew5fc.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\4ss7t2wchp-47otxtyo56.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\nrz8l91e8v-4v8eqarkd7.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\vzasmj1pav-l3n5xuwxn8.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\c1h3kr8mio-ilo7uva0vt.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\wyd10e6s51-qlccset4i1.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\0i4b67ylu2-lzl9nlhx6b.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\gzll7jfcf1-ag7o75518u.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\cc4pzwagxp-xzw0cte36n.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\py8o4wgyfr-0i3buxo5is.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\3ozrlwoegf-o1o13a6vjx.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\6apxec8p08-ttgo8qnofa.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\d8qsw0xig6-2z0ns9nrw6.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\xj4e5kzvpv-muycvpuwrr.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\2v5fd3tuk4-87fc7y1x7t.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\compressed\ydyywkuoga-jfsiqqwiad.gz
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\staticwebassets.build.json
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\staticwebassets.development.json
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\staticwebassets\msbuild.Farm.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\staticwebassets\msbuild.Farm.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\staticwebassets\msbuild.build.Farm.props
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Farm.props
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Farm.props
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\staticwebassets.pack.json
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\Farm.csproj.Up2Date
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\Farm.dll
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\refint\Farm.dll
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\Farm.pdb
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\Farm.genruntimeconfig.cache
+E:\Code\FARM-NEW\FarmFn-main\obj\Debug\net9.0\ref\Farm.dll

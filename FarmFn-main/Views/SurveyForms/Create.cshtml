@@ -1,0 +1,19 @@
+﻿@model Farm.Models.SurveyForm
+
+<div class="container mt-4">
+    <h1>Add Survey Form</h1>
+    <form asp-action="Create" method="post">
+        <div class="mb-3">
+            <label asp-for="Cage.category_id" class="form-label">Cage</label>
+            <select asp-for="Cage.category_id" asp-items="ViewBag.Cage" class="form-control"></select>
+            <span asp-validation-for="CageId" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Cage.quantity" class="form-label">Number of Chickens</label>
+            <input asp-for="Cage.quantity" type="number" class="form-control" />
+            <span asp-validation-for="Cage.quantity" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Add</button>
+        <a asp-action="Index" class="btn btn-secondary">Back</a>
+    </form>
+</div>

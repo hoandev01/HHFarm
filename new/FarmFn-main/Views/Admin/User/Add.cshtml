@@ -1,0 +1,39 @@
+@model Farm.Models.UserViewModel
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Add new user.</h5>
+        <form asp-action="Insert" asp-controller="User" method="post" class="needs-validation" novalidate>
+            @Html.AntiForgeryToken()
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label">Name</label>
+                @Html.TextBoxFor(model => model.Name, new { @class = "form-control", @type = "text" })
+                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+            </div>
+            <div class="mb-3">
+                <label asp-for="Username" class="form-label">Username</label>
+                @Html.TextBoxFor(model => model.Username, new { @class = "form-control", @type = "text" })
+                @Html.ValidationMessageFor(model => model.Username, "", new { @class = "text-danger" })
+            </div>
+            <div class="mb-3">
+                <label asp-for="Password" class="form-label">Password</label>
+                @Html.TextBoxFor(model => model.Password, new { @class = "form-control", @type = "password" })
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            </div>
+            <div class="mb-3">
+                <label asp-for="Role" class="form-label">Role</label>
+                @{
+                    List<SelectListItem> listItems = new List<SelectListItem>
+                                {
+                                new SelectListItem { Text = "Quản trị viên", Value = "1" },
+                                new SelectListItem { Text = "Nhân viên", Value = "0", Selected = true }
+                                };
+                }
+                @Html.DropDownListFor(model => model.Role, listItems, "", new { @class = "form-select" })
+                @Html.ValidationMessageFor(model => model.Role, "", new { @class = "text-danger" })
+            </div>
+            <button type="submit" class="btn btn-primary">Add</button>
+            <button type="button" class="btn btn-secondary" id="cancel-add">Cancel</button>
+        </form>
+    </div>
+</div>

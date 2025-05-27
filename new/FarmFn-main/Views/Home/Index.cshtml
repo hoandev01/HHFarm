@@ -1,0 +1,398 @@
+﻿@model Farm.Models.HomeViewModel
+@{
+    ViewData["Title"] = "Home - Smart Farming";
+    Layout = "_Layout";
+}
+
+<!-- Hero Section -->
+<section class="hero-section py-5 py-md-6 bg-gradient-primary text-white position-relative overflow-hidden">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 mb-4 mb-md-0">
+                <div class="video-placeholder position-relative rounded-3 shadow-lg">
+                    <div class="ratio ratio-16x9">
+                        @* <iframe src="https://www.youtube.com/embed/vXxhQoR2Q9Q" *@
+                        @*         title="Video giới thiệu Farm" *@
+                        @*         frameborder="0" *@
+                        @*         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" *@
+                        @*         allowfullscreen> *@
+                        @* </iframe> *@
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 text-center text-md-start">
+                <h5 class="text-light opacity-75 mb-2">Farm Livestock Management Software</h5>
+                <h1 class="display-3 fw-bold mb-3">Smart Farming<br />Safe & Efficient</h1>
+                <p class="lead mb-4">
+                    Farm is intelligent large-scale livestock management software that applies digital technology in livestock, disease, and biosecurity management to improve productivity, minimize losses, and increase profitability.
+                </p>
+                <a href="/contact" class="btn btn-light btn-lg text-primary fw-semibold">Contact Us Now</a>
+            </div>
+        </div>
+    </div>
+    <div class="wave-bottom position-absolute bottom-0 start-0 w-100" style="height: 80px; background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmc8L3N2Zy4uLi4=') repeat-x;"></div>
+</section>
+
+
+<!-- Testimonials Section -->
+<section class="testimonials-section py-5 py-md-6 bg-white">
+    <div class="container">
+        <h2 class="text-center mb-5 text-primary fw-bold display-5">Who is Farm Software for?</h2>
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="card border-0 shadow-sm h-100 rounded-3">
+                    <div class="card-body text-center">
+                        
+                        <h5 class="card-title fw-semibold text-dark">Farm Owners</h5>
+                        <p class="card-text text-muted">
+                            Manage multiple farms, control livestock smartly, and accurately evaluate performance.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card border-0 shadow-sm h-100 rounded-3">
+                    <div class="card-body text-center">
+                        
+                        <h5 class="card-title fw-semibold text-dark">Wholesale Buyers</h5>
+                        <p class="card-text text-muted">
+                            Easily place bulk orders, check order, and get instant quotations directly from the farm.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card border-0 shadow-sm h-100 rounded-3">
+                    <div class="card-body text-center">
+                       
+                        <h5 class="card-title fw-semibold text-dark">Consumers </h5>
+                        <p class="card-text text-muted">
+                            Buy clean farm products like chicken and eggs with transparent sourcing and fast delivery..
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="text-center mt-5">
+            <a href="/contact" class="btn btn-orange btn-lg text-white px-5 py-2 fw-semibold">Request Consultation</a>
+        </div>
+    </div>
+</section>
+<!-- Benefits Section -->
+<section class="benefits-section py-5 py-md-6 bg-light">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 mb-4 mb-md-0">
+                <img src="https://channuoithongminh.vn/wp-content/uploads/2023/10/z4773083611013_4d14b19cbee991f22cf4afcb86c75a46-e1696998209899.jpg" class="img-fluid rounded-3 shadow-lg" alt="Software Benefits" />
+            </div>
+            <div class="col-md-6">
+                <h2 class="text-primary mb-4 fw-bold display-5">Benefits of Using the Software</h2>
+                <ul class="list-unstyled">
+                    <li class="d-flex align-items-start mb-3">
+                        <span class="check-icon me-3 mt-1">✔</span>
+                        <span>Smart livestock management: Digitally empowered programs and techniques improve efficiency and accuracy.</span>
+                    </li>
+                    <li class="d-flex align-items-start mb-3">
+                        <span class="check-icon me-3 mt-1">✔</span>
+                        <span>Remote management: Farm owners can manage and monitor farm operations from anywhere.</span>
+                    </li>
+                    <li class="d-flex align-items-start mb-3">
+                        <span class="check-icon me-3 mt-1">✔</span>
+                        <span>Cost and risk control: Automated daily/monthly cost calculations enable timely adjustments to reduce risk.</span>
+                    </li>
+                    <li class="d-flex align-items-start mb-3">
+                        <span class="check-icon me-3 mt-1">✔</span>
+                        <span>Dynamic farm performance evaluation: Monitor and assess farm performance, livestock quantity, and growth.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- News Section -->
+<section class="news-section py-5 py-md-6 bg-white">
+    <div class="container">
+        <h2 class="text-center mb-5 text-primary fw-bold display-5">News</h2>
+        <div class="row g-4">
+            @if (Model.NewsList != null && Model.NewsList.Any())
+            {
+                foreach (var newItem in Model.NewsList.Take(4))
+                {
+                    <div class="col-md-3 col-sm-6">
+                        <a href="/blog?id=@newItem.id" class="text-decoration-none">
+                            <div class="card border-0 h-100 rounded-3">
+                                <img src="/Uploads/@newItem.image" class="card-img-top" alt="@newItem.title" />
+                                <div class="card-body">
+                                    <h5 class="card-title fw-semibold text-dark">@newItem.title</h5>
+                                    <p class="card-text text-muted small mb-0">@newItem.created_at.ToString("dd/MM/yyyy")</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                }
+            }
+            else
+            {
+                <div class="col-12 text-center">
+                    <p class="text-muted lead">No news available to display.</p>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+<!-- Contact Section -->
+<section class="contact-section py-5 py-md-6 bg-light">
+    <div class="container">
+        <h2 class="text-center mb-5 text-primary fw-bold display-5">Contact Us</h2>
+        <div class="row">
+            <div class="col-md-6 mb-4 mb-md-0">
+                <h4 class="text-primary mb-4 fw-semibold">Please send us your information</h4>
+                <div>
+                    <div class="mb-3">
+                        <label for="name" class="form-label fw-medium">Full Name <span class="text-danger">*</span></label>
+                        <input type="text" class="form-control rounded-3" id="name" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="phone" class="form-label fw-medium">Phone Number <span class="text-danger">*</span></label>
+                        <input type="text" class="form-control rounded-3" id="phone" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="message" class="form-label fw-medium">Message</label>
+                        <textarea class="form-control rounded-3" id="message" rows="4"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-success btn-lg px-5 fw-semibold">Send</button>
+                </div>
+            </div>
+            <div class="col-md-6 text-center text-md-start">
+                <h4 class="text-primary mb-4 fw-semibold">Install the App</h4>
+                <p class="text-muted mb-3">Please scan the QR code to install the application</p>
+                <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://example.com" alt="QR Code" class="img-fluid mb-3 rounded-3" style="width: 150px;" />
+                <p class="mt-3">
+                    <strong class="text-dark">Hotline:</strong> <span class="text-danger fw-semibold">0352665487</span>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Floating Buttons -->
+<div class="floating-buttons">
+    <a href="https://zalo.me/0976393816" target="_blank" class="btn btn-zalo rounded-circle shadow-lg" data-bs-toggle="tooltip" data-bs-placement="left" title="Chat Zalo" aria-label="Chat with us on Zalo">
+        <i class="fas fa-comments fa-2x"></i>
+    </a>
+    <a href="tel:0976393816" class="btn btn-danger rounded-circle shadow-lg" data-bs-toggle="tooltip" data-bs-placement="left" title="Gọi hotline" aria-label="Gọi hotline 0976393816">
+        <i class="fas fa-phone fa-lg"></i>
+        <span class="d-none">0976393816</span>
+    </a>
+</div>
+
+<!-- Custom CSS -->
+<style>
+    /* Gradient Background for Hero Section */
+    .bg-gradient-primary {
+        background: linear-gradient(135deg, #1e88e5 0%, #0d47a1 100%);
+    }
+
+    /* Wave Effect for Hero Section (Simplified) */
+    .wave-bottom {
+        background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 320'%3E%3Cpath fill='%23f8f9fa' fill-opacity='1' d='M0,192L48,186.7C96,181,192,171,288,181.3C384,192,480,224,576,229.3C672,235,768,213,864,197.3C960,181,1056,171,1152,181.3C1248,192,1344,224,1392,240L1440,256L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z'%3E%3C/path%3E%3C/svg%3E") repeat-x;
+    }
+
+    /* Hero Section Styling */
+    .hero-section .video-placeholder {
+        position: relative;
+        overflow: hidden;
+    }
+
+    .hero-section .play-button {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #fff;
+        background: rgba(0, 0, 0, 0.6);
+        border-radius: 50%;
+        padding: 20px 25px;
+        transition: background 0.3s ease, transform 0.3s ease;
+    }
+
+    .hero-section .play-button:hover {
+        background: rgba(0, 0, 0, 0.8);
+        transform: translate(-50%, -50%) scale(1.1);
+    }
+
+    /* Feature Items Styling */
+    .feature-item {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .feature-item:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1) !important;
+        }
+
+        .feature-item i {
+            color: #0d6efd;  
+            transition: transform 0.3s ease;
+        }
+
+        .feature-item:hover i {
+            transform: scale(1.1); /* Phóng to nhẹ khi hover */
+        }
+
+    /* Testimonials Section Styling */
+    .testimonials-section .card {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .testimonials-section .card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1) !important;
+        }
+
+        .testimonials-section .card i {
+            color: #0d6efd;
+            transition: transform 0.3s ease;
+        }
+
+        .testimonials-section .card:hover i {
+            transform: scale(1.1);
+        }
+
+    /* Custom Orange Button for Liên hệ tư vấn */
+    .btn-orange {
+        background-color: #ff6200;  
+        border-color: #ff6200;
+    }
+
+        .btn-orange:hover {
+            background-color: #e55a00; /* Màu cam tối hơn khi hover */
+            border-color: #e55a00;
+        }
+
+    /* Benefits Section Styling */
+    .benefits-section ul li {
+        font-size: 1.1rem;
+    }
+
+    .benefits-section .check-icon {
+        color: #0d6efd;  
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
+
+    /* Contact Section Styling */
+    .contact-section .form-control {
+        border: 1px solid #ced4da; /* Viền nhẹ hơn */
+        transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .contact-section .form-control:focus {
+            border-color: #0d6efd;
+            box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.1); /* Hiệu ứng nhẹ hơn */
+        }
+
+    .contact-section .btn-success {
+        background-color: #28a745; /* Màu xanh lá cây */
+        border-color: #28a745;
+    }
+
+        .contact-section .btn-success:hover {
+            background-color: #218838; /* Màu xanh lá cây tối hơn khi hover */
+            border-color: #1e7e34;
+        }
+
+    .contact-section img {
+        border: 1px solid #dee2e6; /* Viền nhẹ cho mã QR */
+        box-shadow: none !important; /* Loại bỏ đổ bóng */
+    }
+
+    /* Floating Buttons Styling */
+    .floating-buttons {
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        z-index: 1000;
+    }
+
+        .floating-buttons .btn {
+            width: 60px;
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+            .floating-buttons .btn:hover {
+                transform: scale(1.15);
+                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2) !important;
+            }
+
+    /* Custom Zalo Button Styling */
+    .btn-zalo {
+        background: linear-gradient(135deg, #00A4E4 0%, #007BB5 100%); /* Gradient cho nút Zalo */
+        border: none;
+        color: #fff;
+        position: relative;
+        overflow: hidden;
+    }
+
+        .btn-zalo:hover {
+            background: linear-gradient(135deg, #007BB5 0%, #00A4E4 100%); /* Đảo gradient khi hover */
+        }
+
+        .btn-zalo i {
+            transition: transform 0.3s ease;
+        }
+
+        .btn-zalo:hover i {
+            transform: rotate(360deg); /* Hiệu ứng xoay biểu tượng khi hover */
+        }
+
+        /* Hiệu ứng ánh sáng */
+        .btn-zalo::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255, 255, 255, 0.3), transparent);
+            opacity: 0;
+            transition: opacity 0.5s ease;
+        }
+
+        .btn-zalo:hover::before {
+            opacity: 1;
+        }
+
+    /* News Cards Styling */
+    .news-section .card {
+        transition: transform 0.3s ease;
+    }
+
+        .news-section .card:hover {
+            transform: translateY(-5px); /* Hiệu ứng nâng nhẹ hơn */
+        }
+
+    .news-section .card-img-top {
+        height: 180px; /* Kích thước nhỏ hơn */
+        object-fit: cover;
+    }
+</style>
+
+<!-- Initialize Bootstrap Tooltips -->
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+        var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+            return new bootstrap.Tooltip(tooltipTriggerEl);
+        });
+    });
+</script>

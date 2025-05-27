@@ -1,0 +1,157 @@
+﻿@model Farm.Models.Survey
+
+@{
+    ViewData["Title"] = "Edit Survey";
+}
+
+<div class="container mt-5">
+    <h1 class="display-4 text-center mb-4">Edit Survey</h1>
+
+    <form asp-action="Edit" method="post" class="bg-light p-4 rounded shadow">
+        @Html.AntiForgeryToken()
+
+        <input type="hidden" asp-for="Id" />
+
+        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+        <div class="mb-3">
+            <label asp-for="CageName" class="form-label">Cage Name *</label>
+            <input asp-for="CageName" class="form-control" />
+            <span asp-validation-for="CageName" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CageCode" class="form-label">Cage Code</label>
+            <input asp-for="CageCode" class="form-control" />
+            <span asp-validation-for="CageCode" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Location" class="form-label">Cage Location *</label>
+            <input asp-for="Location" class="form-control" />
+            <span asp-validation-for="Location" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CageArea" class="form-label">Cage Area (m²) *</label>
+            <input asp-for="CageArea" class="form-control" type="number" step="0.01" />
+            <span asp-validation-for="CageArea" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="ChickenCount" class="form-label">Number of Chickens *</label>
+            <input asp-for="ChickenCount" class="form-control" type="number" />
+            <span asp-validation-for="ChickenCount" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="ChickenBreed" class="form-label">Chicken Breed *</label>
+            <select asp-for="ChickenBreed" class="form-control">
+                <option value="">Select breed</option>
+                <option value="Gà ta">Native Chicken</option>
+                <option value="Gà công nghiệp">Industrial Chicken</option>
+                <option value="Gà ri">Ri Chicken</option>
+                <option value="Giống khác">Other Breed</option>
+            </select>
+            <span asp-validation-for="ChickenBreed" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="BreedOther" class="form-label">Other Breed</label>
+            <input asp-for="BreedOther" class="form-control" />
+            <span asp-validation-for="BreedOther" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Purpose" class="form-label">Raising Purpose *</label>
+            <select asp-for="Purpose" class="form-control">
+                <option value="">Select purpose</option>
+                <option value="Lấy thịt">Meat</option>
+                <option value="Lấy trứng">Eggs</option>
+                <option value="Giống">Breeding</option>
+                <option value="Khác">Other</option>
+            </select>
+            <span asp-validation-for="Purpose" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="PurposeOther" class="form-label">Other Purpose</label>
+            <input asp-for="PurposeOther" class="form-control" />
+            <span asp-validation-for="PurposeOther" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="MainFeed" class="form-label">Main Feed *</label>
+            <input asp-for="MainFeed" class="form-control" />
+            <span asp-validation-for="MainFeed" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="WaterSource" class="form-label">Water Source *</label>
+            <select asp-for="WaterSource" class="form-control">
+                <option value="">Select source</option>
+                <option value="Nước máy">Tap Water</option>
+                <option value="Nước giếng">Well Water</option>
+                <option value="Ao, hồ">Pond or Lake</option>
+                <option value="Khác">Other</option>
+            </select>
+            <span asp-validation-for="WaterSource" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="WaterSourceOther" class="form-label">Other Water Source</label>
+            <input asp-for="WaterSourceOther" class="form-control" />
+            <span asp-validation-for="WaterSourceOther" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Ventilation" class="form-label">Cage Ventilation *</label>
+            <select asp-for="Ventilation" class="form-control">
+                <option value="">Select status</option>
+                <option value="Tốt">Good</option>
+                <option value="Trung bình">Average</option>
+                <option value="Kém">Poor</option>
+            </select>
+            <span asp-validation-for="Ventilation" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Lighting" class="form-label">Lighting *</label>
+            <select asp-for="Lighting" class="form-control">
+                <option value="">Select type</option>
+                <option value="Tự nhiên">Natural</option>
+                <option value="Đèn điện">Electric</option>
+                <option value="Cả hai">Both</option>
+            </select>
+            <span asp-validation-for="Lighting" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Hygiene" class="form-label">Cage Hygiene *</label>
+            <select asp-for="Hygiene" class="form-control">
+                <option value="">Select status</option>
+                <option value="Sạch">Clean</option>
+                <option value="Trung bình">Average</option>
+                <option value="Bẩn">Dirty</option>
+            </select>
+            <span asp-validation-for="Hygiene" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Notes" class="form-label">Notes</label>
+            <textarea asp-for="Notes" class="form-control" rows="3"></textarea>
+            <span asp-validation-for="Notes" class="text-danger"></span>
+        </div>
+
+        <div class="d-grid gap-2">
+            <input type="submit" value="Save" class="btn btn-primary btn-lg" />
+            <a asp-action="Index" class="btn btn-secondary btn-lg">Back to List</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+}
